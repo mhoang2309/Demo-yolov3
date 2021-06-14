@@ -1,5 +1,0 @@
-classses = 8
-train = ./train.txt
-valid = ./val.txt
-names = ./yolo.names
-backup = ./backup
