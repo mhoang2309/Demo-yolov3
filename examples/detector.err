@@ -1,0 +1,107 @@
+*** Error 18 "detector.c" Line 1(9,20): File can not be opened
+    Not in local "darknet.h"
+    Not in local "D:\TTVXL\BT CHUONG 8\BAI_802_I2C_RT_LCD_3KEY\darknet.h"
+    Not in last "darknet.h"
+    Not in project "C:\Users\ACER\Desktop\darknet\darknet-master\darknet\examples\darknet.h"
+    Not in ";D:\CCS dung de lap trinh\PICC\Devices\darknet.h"
+    Not in "D:\CCS dung de lap trinh\PICC\Drivers\darknet.h"
+*** Error 128 "detector.c" Line 1(9,16): A #DEVICE required before this line
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x80
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x9A
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0xFF
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0xFF
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0xFF
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x06
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0x1C
+*** Error 1 "detector.c" Line 3(1,2): Illegal C character in input file  0xA4
+*** Error 1 "detector.c" Line 3(9,10): Illegal C character in input file  0xD5
+*** Error 1 "detector.c" Line 3(9,10): Illegal C character in input file  0xF1
+*** Error 12 "detector.c" Line 3(1,2): Undefined identifier   JQ
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0xAD
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0xB4
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0xA6
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0xE5
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x40
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
+*** Error 1 "detector.c" Line 3(12,13): Illegal C character in input file  0x00
